@@ -1,8 +1,6 @@
 # SUB Page
 
- [ ] Tickbox 1
- [ ] Tickbox 2
- 
+
  * Bullet 1
  * Bullet 2
  
